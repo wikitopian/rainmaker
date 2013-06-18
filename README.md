@@ -8,7 +8,7 @@ Installation
 
     The usual.
 
-    BuddyPress must be installed.
+    BuddyPress and BBPress must be installed and integrated.
 
 Usage
 -----
